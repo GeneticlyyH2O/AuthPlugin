@@ -34,6 +34,7 @@ https://your-domain/callback
 Enable:
 
 * Server Members Intent
+* All intents 
 
 Invite bot with:
 
