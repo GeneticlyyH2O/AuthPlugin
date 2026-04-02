@@ -69,7 +69,7 @@ discord:
 * `public-url` must match redirect exactly
 * Bot role must be above verified role
 * Port must be accessible
-* I plan to improve this later
+* I plans to improve this later
 ---
 
 ## If it breaks
@@ -79,3 +79,4 @@ Check:
 * redirect URL
 * public-url
 * bot permissions
+* 8080 isn't forced just one i randomly picked
