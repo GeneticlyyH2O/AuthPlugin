@@ -25,12 +25,6 @@ Redirect:
 https://your-domain/callback
 ```
 
-Scopes:
-
-```
-identify
-guilds
-```
 
 Enable:
 
