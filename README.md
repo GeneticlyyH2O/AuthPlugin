@@ -1,6 +1,11 @@
 # AuthPlugin
 
-Discord-based login system for Paper 1.12
+Discord-based login system for PaperMC
+
+
+Supported Versions: 1.12
+
+Work in progress versions: 1.13 to 1.16 and 1.17 to 1.21
 
 ---
 
